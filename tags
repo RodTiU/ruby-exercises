@@ -1,0 +1,194 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rodolfo/repos/assignments/ruby-exercises/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/05e6ab4b/
+1.Basic Data Types	ruby_basics/README.md	/^#### 1.Basic Data Types$/;"	t	subsection:Ruby Basics Exercises""Contents
+10.Basic Enumerables	ruby_basics/README.md	/^#### 10.Basic Enumerables$/;"	t	subsection:Ruby Basics Exercises""Contents
+11.Predicate Enumerables	ruby_basics/README.md	/^#### 11.Predicate Enumerables$/;"	t	subsection:Ruby Basics Exercises""Contents
+12.Nested Collections	ruby_basics/README.md	/^#### 12.Nested Collections$/;"	t	subsection:Ruby Basics Exercises""Contents
+6.Arrays	ruby_basics/README.md	/^#### 6.Arrays$/;"	t	subsection:Ruby Basics Exercises""Contents
+7.Hashes	ruby_basics/README.md	/^#### 7.Hashes$/;"	t	subsection:Ruby Basics Exercises""Contents
+8.Methods	ruby_basics/README.md	/^#### 8.Methods$/;"	t	subsection:Ruby Basics Exercises""Contents
+ASCII code exercise using implicit and explicit return	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'ASCII code exercise using implicit and explicit return' do$/;"	d	describe:Method Exercises
+ASCII translator exercise using #chr	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'ASCII translator exercise using #chr' do$/;"	d	describe:Method Exercises
+About this repository	README.md	/^## About this repository$/;"	s	chapter:The Odin Project Ruby Exercises
+Array Exercises	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^RSpec.describe 'Array Exercises' do$/;"	d
+Basic Enumerable Exercises	ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb	/^RSpec.describe 'Basic Enumerable Exercises' do$/;"	d
+Cloning and installation	README.md	/^## Cloning and installation$/;"	s	chapter:The Odin Project Ruby Exercises
+Contents	ruby_basics/README.md	/^###  Contents$/;"	S	chapter:Ruby Basics Exercises
+FormatterOverrides	ruby_basics/10_basic_enumerables/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+FormatterOverrides	ruby_basics/11_predicate_enumerables/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+FormatterOverrides	ruby_basics/12_nested_collections/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+FormatterOverrides	ruby_basics/1_data_types/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+FormatterOverrides	ruby_basics/6_arrays/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+FormatterOverrides	ruby_basics/7_hashes/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+FormatterOverrides	ruby_basics/8_methods/spec/spec_helper.rb	/^module FormatterOverrides$/;"	m
+Hash Exercises	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^RSpec.describe 'Hash Exercises' do$/;"	d
+Method Exercises	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^RSpec.describe 'Method Exercises' do$/;"	d
+Nested Array Exercises	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^RSpec.describe 'Nested Array Exercises' do$/;"	d
+Nested hash exercises	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^RSpec.describe 'Nested hash exercises' do$/;"	d
+Numbers Exercises	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^RSpec.describe 'Numbers Exercises' do$/;"	d
+Predicate Enumerable Exercises	ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb	/^RSpec.describe 'Predicate Enumerable Exercises' do$/;"	d
+Ruby Basics Exercises	ruby_basics/README.md	/^# Ruby Basics Exercises$/;"	c
+String Exercises	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^RSpec.describe 'String Exercises' do$/;"	d
+The Odin Project Ruby Exercises	README.md	/^# The Odin Project Ruby Exercises$/;"	c
+Usage	README.md	/^## Usage$/;"	s	chapter:The Odin Project Ruby Exercises
+Usage	ruby_basics/README.md	/^### Usage$/;"	S	chapter:Ruby Basics Exercises
+add	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def add(a, b)$/;"	f
+add another row exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'add another row exercise' do$/;"	d	describe:Nested Array Exercises
+add element exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'add element exercise' do$/;"	d	describe:Array Exercises
+add information about language exercise	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'add information about language exercise' do$/;"	d	describe:Nested hash exercises
+add language exercise	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'add language exercise' do$/;"	d	describe:Nested hash exercises
+add seat to row exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'add seat to row exercise' do$/;"	d	describe:Nested Array Exercises
+add_another_row	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def add_another_row(chart, row_to_add)$/;"	f
+add_element	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def add_element(array)$/;"	f
+add_information_about_language	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def add_information_about_language(languages, language_name, info_key, info_value)$/;"	f
+add_language	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def add_language(languages, language_name, language_info_value)$/;"	f
+add_seat_to_row	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def add_seat_to_row(chart, row_index, seat_to_add)$/;"	f
+addition exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'addition exercise' do$/;"	d	describe:Numbers Exercises
+alphabetical list exercise using #sort and #uniq chained	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'alphabetical list exercise using #sort and #uniq chained' do$/;"	d	describe:Method Exercises
+array concatenation exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'array concatenation exercise' do$/;"	d	describe:Array Exercises
+array difference exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'array difference exercise' do$/;"	d	describe:Array Exercises
+array length exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'array length exercise' do$/;"	d	describe:Array Exercises
+array_concatenation	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def array_concatenation(original, additional)$/;"	f
+array_difference	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def array_difference(original, comparison)$/;"	f
+array_length	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def array_length(array)$/;"	f
+blank seating chart creation exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'blank seating chart creation exercise' do$/;"	d	describe:Nested Array Exercises
+blank_seating_chart	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def blank_seating_chart(number_of_rows, seats_per_row)$/;"	f
+capitalize	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def capitalize(word)$/;"	f
+capitalizing exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'capitalizing exercise' do$/;"	d	describe:String Exercises
+coffee drink exercise	ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb	/^  describe 'coffee drink exercise' do$/;"	d	describe:Predicate Enumerable Exercises
+coffee_drink?	ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb	/^def coffee_drink?(drink_list)$/;"	f
+common sports exercise using #intersection	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'common sports exercise using #intersection' do$/;"	d	describe:Method Exercises
+concatenate	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def concatenate(string)$/;"	f
+concatenate_example	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def concatenate_example(string)$/;"	f
+concatenation example exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'concatenation example exercise' do$/;"	d	describe:String Exercises
+concatenation exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'concatenation exercise' do$/;"	d	describe:String Exercises
+correct format exercise	ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb	/^  describe 'correct format exercise' do$/;"	d	describe:Predicate Enumerable Exercises
+correct guess exercise	ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb	/^  describe 'correct guess exercise' do$/;"	d	describe:Predicate Enumerable Exercises
+correct_format?	ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb	/^def correct_format?(word_list)$/;"	f
+correct_guess?	ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb	/^def correct_guess?(guess_list, answer)$/;"	f
+count empty seats exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'count empty seats exercise' do$/;"	d	describe:Nested Array Exercises
+count_empty_seats	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def count_empty_seats(chart)$/;"	f
+create favorite hash exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'create favorite hash exercise' do$/;"	d	describe:Hash Exercises
+create_favorite_hash	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def create_favorite_hash(color, number)$/;"	f
+delete information about language exercise	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'delete information about language exercise' do$/;"	d	describe:Nested hash exercises
+delete language hash	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'delete language hash' do$/;"	d	describe:Nested hash exercises
+delete row from chart exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'delete row from chart exercise' do$/;"	d	describe:Nested Array Exercises
+delete seat from grid exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'delete seat from grid exercise' do$/;"	d	describe:Nested Array Exercises
+delete_information_about_language	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def delete_information_about_language(languages, language_name, info_key)$/;"	f
+delete_language	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def delete_language(languages, language_name)$/;"	f
+delete_row_from_chart	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def delete_row_from_chart(chart, row_index)$/;"	f
+delete_seat_from_row	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def delete_seat_from_row(chart, row_index, seat_index)$/;"	f
+display current inventory exercise	ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb	/^  describe 'display current inventory exercise' do$/;"	d	describe:Basic Enumerable Exercises
+display guess order exercise	ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb	/^  describe 'display guess order exercise' do$/;"	d	describe:Basic Enumerable Exercises
+display_current_inventory	ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb	/^def display_current_inventory(inventory_list)$/;"	f
+display_guess_order	ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb	/^def display_guess_order(guesses)$/;"	f
+divide	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def divide(a, b)$/;"	f
+division exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'division exercise' do$/;"	d	describe:Numbers Exercises
+downcase	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def downcase(string)$/;"	f
+downcasing exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'downcasing exercise' do$/;"	d	describe:String Exercises
+dump_pending	ruby_basics/10_basic_enumerables/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+dump_pending	ruby_basics/11_predicate_enumerables/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+dump_pending	ruby_basics/12_nested_collections/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+dump_pending	ruby_basics/1_data_types/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+dump_pending	ruby_basics/6_arrays/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+dump_pending	ruby_basics/7_hashes/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+dump_pending	ruby_basics/8_methods/spec/spec_helper.rb	/^  def dump_pending(_)$/;"	f	module:FormatterOverrides
+empty array exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'empty array exercise' do$/;"	d	describe:Array Exercises
+empty exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'empty exercise' do$/;"	d	describe:String Exercises
+empty_array?	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def empty_array?(array)$/;"	f
+empty_string	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def empty_string(string)$/;"	f
+even exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'even exercise' do$/;"	d	describe:Numbers Exercises
+even?	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def even?(number)$/;"	f
+favorite categories exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'favorite categories exercise' do$/;"	d	describe:Hash Exercises
+favorite color exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'favorite color exercise' do$/;"	d	describe:Hash Exercises
+favorite items exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'favorite items exercise' do$/;"	d	describe:Hash Exercises
+favorite number exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'favorite number exercise' do$/;"	d	describe:Hash Exercises
+favorite_categories	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def favorite_categories(favorite_list)$/;"	f
+favorite_color	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def favorite_color(favorite_list)$/;"	f
+favorite_items	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def favorite_items(favorite_list)$/;"	f
+favorite_number	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def favorite_number(favorite_list)$/;"	f
+find absolute values exercise	ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb	/^  describe 'find absolute values exercise' do$/;"	d	describe:Basic Enumerable Exercises
+find beautiful languages exercise	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'find beautiful languages exercise' do$/;"	d	describe:Nested hash exercises
+find favorite exercise	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^  describe 'find favorite exercise' do$/;"	d	describe:Nested Array Exercises
+find language facts exercise	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'find language facts exercise' do$/;"	d	describe:Nested hash exercises
+find language information exercise	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^  describe 'find language information exercise' do$/;"	d	describe:Nested hash exercises
+find low inventory exercise	ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb	/^  describe 'find low inventory exercise' do$/;"	d	describe:Basic Enumerable Exercises
+find word length exercise	ruby_basics/10_basic_enumerables/spec/basic_enumerable_exercises_spec.rb	/^  describe 'find word length exercise' do$/;"	d	describe:Basic Enumerable Exercises
+find_absolute_values	ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb	/^def find_absolute_values(numbers)$/;"	f
+find_beautiful_languages	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def find_beautiful_languages(languages)$/;"	f
+find_favorite	ruby_basics/12_nested_collections/exercises/nested_array_exercises.rb	/^def find_favorite(array_of_hash_objects)$/;"	f
+find_language_facts	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def find_language_facts(languages, language_name, fact_index = 0)$/;"	f
+find_language_information	ruby_basics/12_nested_collections/exercises/nested_hash_exercises.rb	/^def find_language_information(languages, language_name)$/;"	f
+find_low_inventory	ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb	/^def find_low_inventory(inventory_list)$/;"	f
+find_word_lengths	ruby_basics/10_basic_enumerables/exercises/basic_enumerable_exercises.rb	/^def find_word_lengths(word_list)$/;"	f
+first element exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'first element exercise' do$/;"	d	describe:Array Exercises
+first_element	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def first_element(array)$/;"	f
+float exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'float exercise' do$/;"	d	describe:Numbers Exercises
+float_division	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def float_division(a, b)$/;"	f
+include exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'include exercise' do$/;"	d	describe:Array Exercises
+include?	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def include?(array, value)$/;"	f
+join	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def join(array, separator)$/;"	f
+join exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'join exercise' do$/;"	d	describe:Array Exercises
+last three elements exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'last three elements exercise' do$/;"	d	describe:Array Exercises
+last_three_elements	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def last_three_elements(array)$/;"	f
+length exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'length exercise' do$/;"	d	describe:String Exercises
+lucky number exercise using a default parameter	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'lucky number exercise using a default parameter' do$/;"	d	describe:Method Exercises
+merge favorites exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'merge favorites exercise' do$/;"	d	describe:Hash Exercises
+merge_favorites	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def merge_favorites(original_list, additional_list)$/;"	f
+modulus exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'modulus exercise' do$/;"	d	describe:Numbers Exercises
+multiplication exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'multiplication exercise' do$/;"	d	describe:Numbers Exercises
+multiply	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def multiply(a, b)$/;"	f
+nil array exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'nil array exercise' do$/;"	d	describe:Array Exercises
+nil_array	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def nil_array(number)$/;"	f
+odd exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'odd exercise' do$/;"	d	describe:Numbers Exercises
+odd?	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def odd?(number)$/;"	f
+pet pun exercise using console output	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'pet pun exercise using console output' do$/;"	d	describe:Method Exercises
+remainder	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def remainder(a, b)$/;"	f
+remove favorite number exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'remove favorite number exercise' do$/;"	d	describe:Hash Exercises
+remove first three elements exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'remove first three elements exercise' do$/;"	d	describe:Array Exercises
+remove last element exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'remove last element exercise' do$/;"	d	describe:Array Exercises
+remove spaces exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'remove spaces exercise' do$/;"	d	describe:String Exercises
+remove_favorite_number	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def remove_favorite_number(favorite_list)$/;"	f
+remove_first_three_elements	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def remove_first_three_elements(array)$/;"	f
+remove_last_element	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def remove_last_element(array)$/;"	f
+reverse	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def reverse(string)$/;"	f
+reverse	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def reverse(array)$/;"	f
+reverse exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'reverse exercise' do$/;"	d	describe:String Exercises
+reverse exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'reverse exercise' do$/;"	d	describe:Array Exercises
+space_remover	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def space_remover(string)$/;"	f
+string to number exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'string to number exercise' do$/;"	d	describe:Numbers Exercises
+string_length	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def string_length(string)$/;"	f
+string_to_number	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def string_to_number(string)$/;"	f
+substrings	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def substrings(word)$/;"	f
+substrings exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'substrings exercise' do$/;"	d	describe:String Exercises
+subtract	ruby_basics/1_data_types/exercises/numbers_exercises.rb	/^def subtract(a, b)$/;"	f
+subtraction exercise	ruby_basics/1_data_types/spec/numbers_exercises_spec.rb	/^  describe 'subtraction exercise' do$/;"	d	describe:Numbers Exercises
+third element exercise	ruby_basics/6_arrays/spec/array_exercises_spec.rb	/^  describe 'third element exercise' do$/;"	d	describe:Array Exercises
+third_element	ruby_basics/6_arrays/exercises/array_exercises.rb	/^def third_element(array)$/;"	f
+twenty-first century predicate exercise	ruby_basics/8_methods/spec/method_exercises_spec.rb	/^  describe 'twenty-first century predicate exercise' do$/;"	d	describe:Method Exercises
+twenty-first century years exercise	ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb	/^  describe 'twenty-first century years exercise' do$/;"	d	describe:Predicate Enumerable Exercises
+twenty_first_century_years?	ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb	/^def twenty_first_century_years?(year_list)$/;"	f
+update favorite movie exercise	ruby_basics/7_hashes/spec/hash_exercises_spec.rb	/^  describe 'update favorite movie exercise' do$/;"	d	describe:Hash Exercises
+update_favorite_movie	ruby_basics/7_hashes/exercises/hash_exercises.rb	/^def update_favorite_movie(favorite_list, movie)$/;"	f
+uppercase	ruby_basics/1_data_types/exercises/string_exercises.rb	/^def uppercase(string)$/;"	f
+uppercasing exercise	ruby_basics/1_data_types/spec/strings_exercises_spec.rb	/^  describe 'uppercasing exercise' do$/;"	d	describe:String Exercises
+valid scores exercise	ruby_basics/11_predicate_enumerables/spec/predicate_enumerable_exercises_spec.rb	/^  describe 'valid scores exercise' do$/;"	d	describe:Predicate Enumerable Exercises
+valid_scores?	ruby_basics/11_predicate_enumerables/exercises/predicate_enumerable_exercises.rb	/^def valid_scores?(score_list, perfect_score)$/;"	f
+when Ruby is the favorite	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^    context 'when Ruby is the favorite' do$/;"	c	describe:Nested Array Exercises.find favorite exercise
+when one of the rows are changed	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^    context 'when one of the rows are changed' do$/;"	c	describe:Nested Array Exercises.blank seating chart creation exercise
+when only javascript and python are beautiful (never but lets pretend)	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^    context 'when only javascript and python are beautiful (never but lets pretend)' do$/;"	c	describe:Nested hash exercises.find beautiful languages exercise
+when only ruby is beautiful	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^    context 'when only ruby is beautiful' do$/;"	c	describe:Nested hash exercises.find beautiful languages exercise
+when the given language name is javascript	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^    context 'when the given language name is javascript' do$/;"	c	describe:Nested hash exercises.find language information exercise
+when the given language name is ruby	ruby_basics/12_nested_collections/spec/nested_hash_exercises_spec.rb	/^    context 'when the given language name is ruby' do$/;"	c	describe:Nested hash exercises.find language information exercise
+when there are four nil's in the given array	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^    context "when there are four nil's in the given array" do$/;"	c	describe:Nested Array Exercises.count empty seats exercise
+when there are three nil's in the given array	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^    context "when there are three nil's in the given array" do$/;"	c	describe:Nested Array Exercises.count empty seats exercise
+when there is no favorite	ruby_basics/12_nested_collections/spec/nested_array_exercises_spec.rb	/^    context 'when there is no favorite' do$/;"	c	describe:Nested Array Exercises.find favorite exercise
